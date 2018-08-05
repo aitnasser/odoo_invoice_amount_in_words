@@ -3,10 +3,10 @@
    :alt: License: AGPL-3
 
 ==============
-Number In Words Invoice Module
+Invoice Amount in Words
 ==============
 
-Add a numbers in words field to invoice
+Add the amount in words in generated Invoices.
 
 Installation
 ============
